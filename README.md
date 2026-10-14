@@ -1,1 +1,5 @@
 # Invernadero-en-observacion
+
+Sebastian David Castro Alvares - Jimmy Alejandro Vela Aparicio
+
+Este proyecto corresponde al desarrollo del segundo parcial de Programación I y tiene como objetivo implementar un sistema automatizado para el monitoreo y control del microclima en un invernadero de cultivo de fresas. Desarrollado de manera colaborativa por Jimmy Vela y Sebastian Castro, el software procesa y valida continuamente las lecturas de temperatura y humedad relativas enviadas por los sensores de campo, aplicando las restricciones técnicas y los rangos óptimos establecidos por el agrónomo. A través de una lógica basada en ciclos, validaciones de datos y contadores estadísticos, el algoritmo evalúa en tiempo real si el cultivo se encuentra en condiciones óptimas, bajo observación —aplicando las acciones correctivas necesarias como ventilar, encender calefacción, deshumidificar o nebulizar—, en alerta crítica, o si requiere una revisión técnica de los equipos tras superar el límite de ocho lecturas sin estabilización.
